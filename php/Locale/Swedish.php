@@ -76,7 +76,7 @@ final class Swedish
             'IMPORT_LINK'					=> 'Importera från länk',
             'IMPORT_DROPBOX'				=> 'Importera från Dropbox',
             'IMPORT_SERVER'					=> 'Importera från server',
-            'NEW_ALBUM'						=> 'Nytt album',
+            'NEW_ALBUM'						=> 'Skapa nytt album',
 
             'TITLE_NEW_ALBUM'			=> 'Skriv en titel för det nya albumet:',
             'UNTITLED'					=> 'Saknar titel',
@@ -201,7 +201,7 @@ final class Swedish
             'PASSWORD_TITLE'			=> 'Ange dina befintliga inloggningsuppgifter:',
             'USERNAME_CURRENT'			=> 'Befintligt användarnamn',
             'PASSWORD_CURRENT'			=> 'Befintligt lösenord',
-            'PASSWORD_TEXT'				=> 'Ditt inloggningsuppgifter kommer att ändras till:',
+            'PASSWORD_TEXT'				=> 'Dina inloggningsuppgifter kommer att ändras till:',
             'PASSWORD_CHANGE'			=> 'Spara ändringar av inloggningsuppgifter',
 
 
